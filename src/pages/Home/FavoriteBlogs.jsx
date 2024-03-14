@@ -9,7 +9,7 @@ const FavoriteBlogs = () => {
   const [favoriteBlogs, setFavoriteBlogs] = useState([]) // State to store the fetched blogs
   const { auth } = useAuth()
   // Check if the user has any favorite blogs
-  const isMyFavoriteBlog = auth?.user?.id
+  // const isMyFavoriteBlog = auth?.user?.id
 
   useEffect(() => {
     // Function to fetch favorite blogs from the server
@@ -33,7 +33,7 @@ const FavoriteBlogs = () => {
   }, [api]) // Dependency array to ensure this effect runs only once when the component mounts
   return (
     <>
-      {isMyFavoriteBlog && (
+      {auth?.user && (
         <div className="sidebar-card">
           <h3 className="text-slate-300 text-xl lg:text-2xl font-semibold">
             Your Favourites ❤️

@@ -4,9 +4,7 @@
 
 Welcome to our project's blogging platform! Users can read, write, and communicate with blogs on this site. Our platform caters to both readers and writers, offering engaging content that piques their interest and allows them to express their ideas.
 
-## Live Deployment Link:
-
-## Video Showcasing uses website:
+## Live Deployment Link : https://react-blogify-2gnspm9sv-alive1258s-projects.vercel.app/
 
 ## Features
 

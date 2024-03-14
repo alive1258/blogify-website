@@ -141,7 +141,34 @@
       "avatar": null,
       "bio": "i am Full STACK DEV",
       "password": "$2b$08$Q7qaEHr4nwS4qk0lDmaX3ePy3y5xUA/NpnLk1yO1wug/eOzmFeb/y",
-      "favourites": []
+      "favourites": [
+        {
+          "id": "4321b782f360f58c8c85",
+          "title": "Scope and Scope Chain in JavaScript",
+          "tags": "JavaScript, Async, Scope"
+        },
+        {
+          "id": "7c12b4b48531bcc995ae",
+          "title": "A guide to Prototype in JavaScript",
+          "tags": "programming, algorithm, prototype, javascript"
+        }
+      ]
+    },
+    {
+      "id": "5fa13ac7f50a26fa6a92",
+      "email": "liton@gmail.com",
+      "firstName": "Liton",
+      "lastName": "Hassan",
+      "avatar": null,
+      "bio": "I am CEO",
+      "password": "$2b$08$m.9qZ3zLUKQtg1l.YByk9ONrAzZhmfay/VrqPJj5.C/hmamEdxbzu",
+      "favourites": [
+        {
+          "id": "7c12b4b48531bcc995ae",
+          "title": "A guide to Prototype in JavaScript",
+          "tags": "programming, algorithm, prototype, javascript"
+        }
+      ]
     }
   ],
   "blogs": [
@@ -166,6 +193,9 @@
         },
         {
           "id": "65aff389f1822a5e9f43"
+        },
+        {
+          "id": "5fa13ac7f50a26fa6a92"
         }
       ],
       "comments": [
@@ -296,6 +326,16 @@
             "id": "6571a7a382152d3104bb",
             "firstName": "Hamzal",
             "lastName": "Khan",
+            "avatar": null
+          }
+        },
+        {
+          "id": "a6fe2b07bd8c44bcb0c5",
+          "content": "wow",
+          "author": {
+            "id": "5fa13ac7f50a26fa6a92",
+            "firstName": "Liton",
+            "lastName": "Hassan",
             "avatar": null
           }
         }
@@ -764,6 +804,22 @@
       "likes": [],
       "comments": [],
       "createdAt": "2024-03-14T07:08:55.481Z"
+    },
+    {
+      "id": "a8dd1cde847e739322ec",
+      "title": "Today Event",
+      "content": "Whether sharing your expertise, breaking news, or whatever’s on your mind, you’re in good company on Blogger. Sign up to discover why millions of people have published their passio...",
+      "thumbnail": "thumbnail-1710415233141-50189648.jpg",
+      "author": {
+        "id": "5fa13ac7f50a26fa6a92",
+        "firstName": "Liton",
+        "lastName": "Hassan",
+        "avatar": null
+      },
+      "tags": "drink,food",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-14T11:20:33.148Z"
     }
   ]
 }
