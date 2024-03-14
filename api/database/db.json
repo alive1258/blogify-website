@@ -1,0 +1,769 @@
+{
+  "users": [
+    {
+      "id": "7830e5903b889750f1e3",
+      "email": "sumitsaha@learnwithsumit.com",
+      "firstName": "Sumit",
+      "lastName": "Saha",
+      "avatar": "avatar-1708764729322-387087910.png",
+      "bio": "A Full Stack Web Application Developer from Bangladesh 🇧🇩 & a Programming Content Creator. Spend most of time coding outstanding projects or creating contents",
+      "password": "$2b$08$l8LuMMePmC0u.SdhhsMfqeo34HAF/o70eagtLO8V4HiHUyphNgu3q",
+      "favourites": []
+    },
+    {
+      "id": "346d7a36b3c41f3fbfa2",
+      "email": "tapasadhikary@learnwithsumit.com",
+      "firstName": "Tapas",
+      "lastName": "Adhikary",
+      "avatar": "avatar-1708764766479-243448656.png",
+      "bio": "Creating content is my passion. After spending over a decade in software engineering, I'm on a mission to make learning easy, and practical. I create written and video content on JavaScript, Web Development, Full Stack, and Career development.",
+      "password": "$2b$08$p15BeTInMoszGTNI3gtwNu2XiSadWVdPXaxQPQy8XZd1jj/6yPQae",
+      "favourites": []
+    },
+    {
+      "id": "f810ae24754a6cdc6d01",
+      "email": "akash@learnwithsumit.com",
+      "firstName": "Akash",
+      "lastName": "Ahmed",
+      "avatar": "avatar-1708764802524-290642702.png",
+      "bio": "I am a junior web developer, experience with web applications and building websites.",
+      "password": "$2b$08$FJn3tesDW9nqExgPr0MqKulICwf5B9FABPn1MjnImf2cXFm5o20KC",
+      "favourites": []
+    },
+    {
+      "id": "3d2dde4b6548275fb066",
+      "email": "saadhasan@learnwithsumit.com",
+      "firstName": "Saad",
+      "lastName": "Hasan",
+      "avatar": "avatar-1708764856675-623317122.jpg",
+      "bio": "I am Saad Hasan, self-taught Junior Software Developer from Bangladesh. I have been working as a Professional Frontend Developer for the last 1 year, Though I started my Self-Taught Programming Journey In 2014.",
+      "password": "$2b$08$e9uY0ZjxXJ9F4r36Ln4oCu4nLZ92OKaQ466VEVDtxBPCs/JL/ChR.",
+      "favourites": [
+        {
+          "id": "4321b782f360f58c8c85",
+          "title": "Scope and Scope Chain in JavaScript",
+          "tags": "JavaScript, Async, Scope"
+        },
+        {
+          "id": "4321b782f360f58c8c87",
+          "title": "Create Custom Dialog with listview | Android | Java",
+          "tags": "android, java, kotlin, permission"
+        }
+      ]
+    },
+    {
+      "id": "65aff389f1822a5e9f43",
+      "email": "salahuddin@learnwithsumit.com",
+      "firstName": "Md",
+      "lastName": "salahuddin",
+      "avatar": "avatar-1708882452726-336021919.jpeg",
+      "bio": "",
+      "password": "$2b$08$At/U5W1/ASt/F3zWCqOZnO75ftNVjwR.RVf0FEhEdQ0nHkll5tJ4m",
+      "favourites": [
+        {
+          "id": "4321b782f360f58c8c87",
+          "title": "Create Custom Dialog with listview | Android | Java",
+          "tags": "android, java, kotlin, permission"
+        }
+      ]
+    },
+    {
+      "id": "046163a3c396fbbf24f8",
+      "email": "zamirulkabir999@gmail.com",
+      "firstName": "shazib",
+      "lastName": "Sarker",
+      "avatar": null,
+      "bio": "web dev",
+      "password": "$2b$08$LcjxAc9MavJKPKJswLAhx.dgc0Q/uzirShAXH1cn7rmV.n12XgFb2",
+      "favourites": [
+        {
+          "id": "4321b782f360f58c8c85",
+          "title": "Scope and Scope Chain in JavaScript",
+          "tags": "JavaScript, Async, Scope"
+        },
+        {
+          "id": "4321b782f360f58c8c88",
+          "title": "JSON Parse | Android | Java",
+          "tags": "android, java, kotlin, permission"
+        },
+        {
+          "id": "7c12b4b48531bcc995ae",
+          "title": "A guide to Prototype in JavaScript",
+          "tags": "programming, algorithm, prototype, javascript"
+        }
+      ]
+    },
+    {
+      "id": "250367fc4146cc1c74f6",
+      "email": "ami@gmail.com",
+      "firstName": "Zamirul",
+      "lastName": "Kabir",
+      "avatar": null,
+      "bio": "",
+      "password": "$2b$08$L5JLrf6LkDFyb8rNGshZuOEcW.uoQeR/BUgUZ8Og4ki3a8Osvb2Q.",
+      "favourites": []
+    },
+    {
+      "id": "94dc0094edc5a132f5c0",
+      "email": "alamin111@gmail.com",
+      "firstName": "Alamin",
+      "lastName": "ali",
+      "avatar": "avatar-1710158914739-292180181.jpg",
+      "bio": "web dev",
+      "password": "$2b$08$R.9EDRlIsMVc0mUntm5Ns.vAs.VA3As.EOWGe92XW0huNcAdXiPem",
+      "favourites": []
+    },
+    {
+      "id": "a62af035ad4d6ae84456",
+      "email": "amir@gmail.com",
+      "firstName": "amir",
+      "lastName": "kahn",
+      "avatar": null,
+      "bio": "",
+      "password": "$2b$08$nI/oYxagIR96ug3L0Hf6E.eEgjTjbMMhpeL0MCkPF/f5bcbOz6EqG",
+      "favourites": []
+    },
+    {
+      "id": "d4d342e19706ff3110d0",
+      "email": "masud@gmail.com",
+      "firstName": "masud",
+      "lastName": "rana",
+      "avatar": "avatar-1710322743187-790317754.jpg",
+      "bio": "i am Front end dev",
+      "password": "$2b$08$T/fy4FQ0wLfe21lMUr3kxuGKJ0VoUwb1HyyNe9IT8JkYjFDQOvvqm",
+      "favourites": []
+    },
+    {
+      "id": "6571a7a382152d3104bb",
+      "email": "hamzal@gmail.com",
+      "firstName": "Hamzal",
+      "lastName": "Khan",
+      "avatar": null,
+      "bio": "i am Full STACK DEV",
+      "password": "$2b$08$Q7qaEHr4nwS4qk0lDmaX3ePy3y5xUA/NpnLk1yO1wug/eOzmFeb/y",
+      "favourites": []
+    }
+  ],
+  "blogs": [
+    {
+      "id": "7c12b4b48531bcc995ae",
+      "title": "A guide to Prototype in JavaScript",
+      "content": "Developers may construct interactive and dynamic online apps with the robust programming language — JavaScript. The prototype is one of the most crucial ideas in JavaScript since it allows objects to share functionality.\n\n\nPrototypes in JavaScript\nEvery object in JavaScript has a prototype, which serves as the object’s bare bones. The methods and properties that an object will inherit are specified in the prototype. An object inherits all of its prototype’s properties and functions when you create a new one. \nIn this example, we define the Person constructor function, which has the two inputs of name and age. The Person prototype then gets a new method called sayHello that logs a welcome message to the console.\n\nThe new keyword is then used to create a new Person object called sumit. JavaScript searches the prototype chain of the sumit object for the sayHello method when the sayHello method is called on the sumit object. As the sayHello method is present in the Person prototype, JavaScript locates it and uses it to greet the sumit object.\n\nBecause you may share functionality amongst objects without having to write duplicate code, prototypes are crucial in JavaScript. For instance, you could simply create a new object and set its prototype to be the Person prototype if you wanted to create another object that had the same sayHello method as the Person object",
+      "thumbnail": "thumbnail-1708765741114-630266656.png",
+      "author": {
+        "id": "7830e5903b889750f1e3",
+        "firstName": "Sumit",
+        "lastName": "Saha",
+        "avatar": "avatar-1708764729322-387087910.png"
+      },
+      "tags": "programming, algorithm, prototype, javascript",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        },
+        {
+          "id": "f810ae24754a6cdc6d01"
+        },
+        {
+          "id": "65aff389f1822a5e9f43"
+        }
+      ],
+      "comments": [
+        {
+          "id": "83fbf83e7a33ca0ac1ea",
+          "content": "অনেক সুন্দর হয়েছে",
+          "author": {
+            "id": "346d7a36b3c41f3fbfa2",
+            "firstName": "Tapas",
+            "lastName": "Adhikary",
+            "avatar": "avatar-1708764766479-243448656.png"
+          }
+        },
+        {
+          "id": "a6cb6149982d6641fdcf",
+          "content": "Thank you for this wonderful video. Learning JS for last 1 year and this 'new' key word was giving me headache. I was searching for a better explanation for last one month. Even though I have found some, nothing beats learning in mother tongue. Great job.",
+          "author": {
+            "id": "f810ae24754a6cdc6d01",
+            "firstName": "Akash",
+            "lastName": "Ahmed",
+            "avatar": "avatar-1708764802524-290642702.png"
+          }
+        },
+        {
+          "id": "48554b3ebbc9a9a5187c",
+          "content": "আমি JavaScript এর অনেক  টিউটোরিয়াল দেখেছি অন্যান্য ভাইয়াদের channel থেকে। আমার মনে হয়, কিছু কিছু ভাইদের উদ্দেশ্য হয়তো বিগিনারদের ভীতু করা, ভাগিয়ে দেওয়া যে সহজ বিষয় কঠিন করে বুঝানো। আমি আপনার মধ্যে সেটা একদমই দেখি না। সত্যিকার অর্থে- আপনি একজন বিগিনারবান্ধব।। অসংখ্য ধন্যবাদ ভাইয়া আপনাকে।",
+          "author": {
+            "id": "3d2dde4b6548275fb066",
+            "firstName": "Saad",
+            "lastName": "Hasan",
+            "avatar": "avatar-1708764856675-623317122.jpg"
+          }
+        },
+        {
+          "id": "a78b8c4b7c660fc257b9",
+          "content": "well",
+          "author": {
+            "id": "046163a3c396fbbf24f8",
+            "firstName": "shazib",
+            "lastName": "Sarker",
+            "avatar": null
+          }
+        },
+        {
+          "id": "15e2b9318b4b0c5b2a3a",
+          "content": "wow",
+          "author": {
+            "id": "046163a3c396fbbf24f8",
+            "firstName": "shazib",
+            "lastName": "Sarker",
+            "avatar": null
+          }
+        },
+        {
+          "id": "2cffb35a3c76318a11f6",
+          "content": "well",
+          "author": {
+            "id": "94dc0094edc5a132f5c0",
+            "firstName": "Alamin",
+            "lastName": "ali",
+            "avatar": "avatar-1710158914739-292180181.jpg"
+          }
+        },
+        {
+          "id": "1f76b9fc2df5f9fc8ea9",
+          "content": "well done",
+          "author": {
+            "id": "94dc0094edc5a132f5c0",
+            "firstName": "Alamin",
+            "lastName": "ali",
+            "avatar": "avatar-1710158914739-292180181.jpg"
+          }
+        },
+        {
+          "id": "b343c60b5fb0327c2868",
+          "content": "nice",
+          "author": {
+            "id": "3d2dde4b6548275fb066",
+            "firstName": "Saad",
+            "lastName": "Hasan",
+            "avatar": "avatar-1708764856675-623317122.jpg"
+          }
+        },
+        {
+          "id": "9a12aadb1ae17b751697",
+          "content": "that's amazing",
+          "author": {
+            "id": "d4d342e19706ff3110d0",
+            "firstName": "masud",
+            "lastName": "rana",
+            "avatar": "avatar-1710322743187-790317754.jpg"
+          }
+        },
+        {
+          "id": "5988815167155c186bfa",
+          "content": "nice",
+          "author": {
+            "id": "6571a7a382152d3104bb",
+            "firstName": "Hamzal",
+            "lastName": "Khan",
+            "avatar": null
+          }
+        },
+        {
+          "id": "fa9ffe8ea54b2ea7833c",
+          "content": "wow",
+          "author": {
+            "id": "6571a7a382152d3104bb",
+            "firstName": "Hamzal",
+            "lastName": "Khan",
+            "avatar": null
+          }
+        },
+        {
+          "id": "c42fedadec9f991258e0",
+          "content": "amazing",
+          "author": {
+            "id": "6571a7a382152d3104bb",
+            "firstName": "Hamzal",
+            "lastName": "Khan",
+            "avatar": null
+          }
+        },
+        {
+          "id": "c17ee271ff96c67d9585",
+          "content": "good",
+          "author": {
+            "id": "6571a7a382152d3104bb",
+            "firstName": "Hamzal",
+            "lastName": "Khan",
+            "avatar": null
+          }
+        }
+      ],
+      "createdAt": "2024-02-24T09:09:01.121Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c85",
+      "title": "Scope and Scope Chain in JavaScript",
+      "content": "In Simple, we can assume Scope as the area, where our program can access our declared variables. Simple is that. There is no Rocket Science behind this to get confused.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer too..\r\n\r\nBut there ...",
+      "thumbnail": "thumbnail-1708765297564-606798153.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "JavaScript, Async, Scope",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        },
+        {
+          "id": "046163a3c396fbbf24f8"
+        },
+        {
+          "id": "3d2dde4b6548275fb066"
+        }
+      ],
+      "comments": [
+        {
+          "id": "19becccf4ebf3e6cf385",
+          "content": "অনেক সুন্দর হয়েছে",
+          "author": {
+            "id": "346d7a36b3c41f3fbfa2",
+            "firstName": "Tapas",
+            "lastName": "Adhikary",
+            "avatar": "avatar-1708764766479-243448656.png"
+          }
+        },
+        {
+          "id": "3f0073003271dd8f7471",
+          "content": "wow",
+          "author": {
+            "id": "046163a3c396fbbf24f8",
+            "firstName": "shazib",
+            "lastName": "Sarker",
+            "avatar": null
+          }
+        }
+      ],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c88",
+      "title": "JSON Parse | Android | Java",
+      "content": "JSON stands for JavaScript Object Notation. It is structured, lightweight, human-readable and easy to parse. It’s the best alternative to XML when our android app needs to interchange data from the server. XML parsing is very complex as compare to JSON parsing. First, We have to understand how JSON works. JSON contains Objects, Arrays and key and value. An object is represented by Curly Braces: “{}”, Array is represented by Square Brackets: “[]” Everything between curly braces :{} is called JSON Object & everything between square brackets : [] is a JSON Object. A JSON object can contain different key-value pairs. The value of a key can be an Array. And Array may contain different Objects. And Multiple objects are separated by a comma. Seems difficult?\n\nNo, It’s not. See the Sample JSON file which will help you to understand it by your own and we will use this to fetch data. This JSON file is hosted on https://api.myjson.com/bins/xcuq8",
+      "thumbnail": "thumbnail-4321b782f360f58c8c86.webp",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        },
+        {
+          "id": "3d2dde4b6548275fb066"
+        }
+      ],
+      "comments": [
+        {
+          "id": "dd873682a8e5a7feb196",
+          "content": "well",
+          "author": {
+            "id": "3d2dde4b6548275fb066",
+            "firstName": "Saad",
+            "lastName": "Hasan",
+            "avatar": "avatar-1708764856675-623317122.jpg"
+          }
+        }
+      ],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c86",
+      "title": "এন্ড্রয়েড পার্মিশন",
+      "content": "এন্ড্রয়েড ইউজারদের ললিপপ খাওয়ানোর পাশাপাশি তাদের নিরপত্তার বিষয়টি নিশ্চিত করতে ললিপপ ভার্সন থেকে রান টাইম পার্মিশন নামক একটি অদ্ভুত বস্তু গুগল তাদের খাতায় যোগ করেছে । যেখানে, কোনো এপ ডেভেলোপার যদি তার এপ ইউজারের Storage, Camera, Contacts, Locationঅথবা Microphone সহ অন্যান্য যেকোনো গুরুত্বপূর্ণ এরিয়াতে হাত দিতে চাইলে অবশ্যই ইউজার কতৃক পারমিশন নিয়ে তারপরেই হাতা হাতি করতে হবে । আমার মনে হয় গুগল বাংলাদেশের কথা ভেবেই এই বস্তুটি তাদের খাতায় যুক্ত করেছেন । কারণ, আমরা (৯০% মানুষ) আল্লাহর ওয়াস্তে আমাদের এপ কি কি পার্মিশন নিচ্ছে অথবা Terms & Condition এ কি লেখা আছে সেট না পড়েই সব কিছু তে Allow করে দেই (আমিও এর ব্যাতিক্রম নই 🤓 )। যেটা অনেকটা ঝুকিপূর্ণ, কারণ আমাদের কিছু ভাই রয়েছে (হ্যাকার) যারা RAT বা ট্রজান হর্স দিয়ে খুব সুন্দর করে ভিকটিমের ডেটা নিজের মনে করে চুরি করে নিতে পারে । তা আমি সে বিষয়ে কিছু না বলে আমরা এখানে দেখবো কিভাবে আমরা রানটাইম ইউজারের কাছে পার্মিশন নিতে পারবো । 😁 \n আগের ভার্সন গুলোর মতই আমাদের আগেই AndroidManifest.xml এ পার্মিশন গুলো উল্লেখ করে নিতে হবে",
+      "thumbnail": "thumbnail-1708765297564-606798153.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [
+        {
+          "id": "19becccf4ebf3e6cf385",
+          "content": "অনেক সুন্দর হয়েছে",
+          "author": {
+            "id": "346d7a36b3c41f3fbfa2",
+            "firstName": "Tapas",
+            "lastName": "Adhikary",
+            "avatar": "avatar-1708764766479-243448656.png"
+          }
+        }
+      ],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "73db0fbd775ca2b29865",
+      "title": "fdgh",
+      "content": "fdghfdh",
+      "thumbnail": "thumbnail-1710083498237-916536242.png",
+      "author": {
+        "id": "046163a3c396fbbf24f8",
+        "firstName": "shazib",
+        "lastName": "Sarker",
+        "avatar": null
+      },
+      "tags": "dfghdfh",
+      "likes": [
+        {
+          "id": "046163a3c396fbbf24f8"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-10T15:11:38.246Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c87",
+      "title": "Create Custom Dialog with listview | Android | Java",
+      "content": "Often we might need to create a custom dialog with listview to choose different kinds of actions for a particular option. In certain cases, we use such type of menu items for menus. So, In this post, I will show you how you can create this Custom Dialog with Listview :",
+      "thumbnail": "thumbnail-1708765297564-606798153.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c89",
+      "title": "React useMemo Hook",
+      "content": "useMemo is used to memoize the result of a function, meaning it caches the result and returns it when the inputs to that function haven't changed since the last render. It takes two arguments: the function to memoize and an array of dependencies. If any of the dependencies change between renders, the memoized function is re-executed; otherwise, the cached result is returned.",
+      "thumbnail": "thumbnail-4321b782f360f58c8c89.avif",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "6c33b31ecaa2b8917db2",
+      "title": "লিনিয়ার সার্চ । ডেটা স্ট্রাকচার ও এলগোরিদম",
+      "content": "গত ৫-৬ বছর থেকে Android, Fontend, Backend, Web Security ইত্যাদি নিয়ে কাজ করতে করতে একটা সময় মনে হলো, কোনো একটা জিনিস শেখা বাদ পরে গেছে। একটু কিছু চিন্তার পর বুঝতে পারলাম প্রোগ্রামিং এর সব থেকে important জিনিসটাই শেখা হয় নাই। আর তা হলো “ Data Structure & Algorithm ” । এটির গুরুত্ব নিয়ে বলার কিছু নাই।\n\nতাই Quarantine এর শেষের দিকে মাইন্ড সেটআপ করলাম,সব কিছু বাদ দিয়ে DS & Algo তেই ফোকাস করবো। তাই Android Studio কে লাল সালাম দিয়ে শেখা শুরু করলাম । এখন যখন আমি এই পোস্টটি লিখছি, তখনো আমি Data Structure & Algorithm এ খুব ভালো না, বলতে গেলে পারিই না। একদম বাচ্চা আমি। তবে এই পোস্ট টি মূলত আমি নিজের জন্যেই লিখছি, যেন ভবিষ্যতে যদি কখনো দরকার পরে বা কিছু ভূলে যাই তখবে নিজের লেখা জার্নাল দেখে আবার মনে করে নিতে পারি। (তবে এই পোষ্ট গুলো অবশ্যই পাবলিক থাকবে যেন অন্য কেউ যদি চায়, এগুলো follow করতে পারে )তাই এই পোষ্ট কিংবা এর পরবর্তীতে Data Structure & Algorithm নিয়ে পোষ্ট গুলো তে ভূল থাকা স্বাভাবিক। ভুলত্রুটি গুলো দেখিয়ে দেবার অনুরোধ রইলো।\n\nলিনিয়ার সার্চ এলগোরিদম\n\nএই অনেক অনেক সার্চিং এলগোরিদমের মধ্যে লিনিয়ার সার্চ সব থেকে সহজ একটি এলগোরিদম। ধরুন আপনি একটি বই এর তাক থেকে কোনো একটি নিদৃষ্ট বই খুজবেন অথবা তো আমি চাইলে এক এক করে খুজে বের করতে পারেন অথবা randomly ও খুজতে পারেন। লিনিয়ার সার্চের ক্ষেত্রে আমরা নিদির্ষ্ট বইটি এক এক করে খুজবো।\nঅর্থাৎ বই এর তাকের প্রথম থেকে খোজা শুরু করবো, প্রথম বইটি দেখবো। সেটা কি আমাদের কাংখিত বই ? যদি বইটি আমরা পেয়ে যাই তবে খোজা বাদ দিবো আর না পেলে খুজতেই থাকবো যতক্ষন পর্যন্ত আমরা আমাদের কাংখিত বই টি না পাচ্ছি ।\n\n\nআচ্ছা ধরুন, একটি Array আছে যার মধ্যে ৫,১২,১৮,২০,২৬ এই ৫টি Int ভ্যালু আছে। এখন আমাদের খুজতে হবে ২০ ভ্যালু টি array এর কোন পজিশন/index এ আছে।\n\nতবে ২০ এর ইনডেক্স খোজার জন্য আমরা নিচের ধাপ গুলো ফলো করতে পারি\n\nধাপ-১ঃ ধরি লিস্টে n সংখ্যক উপাদান আছে।\n\nধাপ-২ঃ এখন আমরা i এর মান ০ নেই এবং i এর মান (n-1) পর্যন্ত বাড়াতে থাকবো। প্রতিটি মানের জন্যে ধাপ-৩ এ যাই।\n\nধাপ-৩ঃ i এর মান array এর পজিশন/ইনডেক্স হিসেবে চিন্তা করি এবং array[i] এর ভ্যালু আমাদের কাংক্ষিত ভ্যালুর সাথে মিলে কিনা তা চেক করে দেখি। যদি মিলে যায় তবে ধাপঃ৪ এ যাই নাহলে আবার ধাপঃ২ এ যাই।\n\nধাপ-৪ঃ i এর ভ্যালু return করি এবং প্রোগ্রাম বন্ধ করি ।",
+      "thumbnail": "thumbnail-1708765461841-967006271.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "programming, algorithm",
+      "likes": [
+        {
+          "id": "046163a3c396fbbf24f8"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T09:04:21.871Z",
+      "isFavourite": false
+    },
+    {
+      "id": "965584a7b281d9f99c14",
+      "title": "What do you need to know to become proficient in JavaScript?",
+      "content": "JavaScript is everywhere! It's the web browser's language and helps you create web, mobile, and desktop applications. Today, JavaScript is not limited to the client side alone; it is equally popular as the base of server-side frameworks like Node.js and Deno. If you are considering picking up and mastering a programming language, JavaScript is a safe bet.\n\nRecently I have focused on chalking out a path about how to learn JavaScript effectively using a learning model. Please check it out in the video below. I believe that it will help you to learn the language faster.\n\nThe video above talks about how learning JavaScript effectively, and in this article, we will focus on the what part. We will go over the topics that you must consider putting on your plate when you plan to learn JavaScript.\n\nWe will also get introduced to a community-driven JavaScript Roadmap Guide that you can make use of in learning the language and also can contribute to. We will mention the chapters from the guide occasionally, but if you are interested, please feel free to check out the entire guide early.",
+      "thumbnail": "thumbnail-1708793953356-660744456.png",
+      "author": {
+        "id": "346d7a36b3c41f3fbfa2",
+        "firstName": "Tapas",
+        "lastName": "Adhikary",
+        "avatar": "avatar-1708764766479-243448656.png"
+      },
+      "tags": "programming, algorithm, prototype, javascript",
+      "likes": [
+        {
+          "id": "3d2dde4b6548275fb066"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T16:59:13.363Z",
+      "isFavourite": false
+    },
+    {
+      "id": "210470a416ea45b625b8",
+      "title": "Node.js back-end debugging process",
+      "content": "Node.js Debugging Tools\nNode.js provides a range of debugging tools and techniques to debug back-end applications. Here are some of the popular ones:\n\n1. Console.log()\nConsole.log() is one of the most basic and widely used debugging techniques in Node.js. It is a simple function that logs messages to the console, which can be used to trace the execution flow and identify bugs. For example:\n\n2. Debugger Statement\nDebugger statement is a built-in Node.js debugger that stops the execution of code at a specific point and allows you to inspect variables, call stack, and execute code line by line. For example:3. Node.js Debug Module\nThe Node.js debug module is a powerful tool that provides a range of debugging options, including:\n\nBreakpoints\nConditional breakpoints\nWatch expressions\nStepping over, into, and out of functions\nHere is an example of how to use the debug module:\n\n3. Node.js Debug Module\nThe Node.js debug module is a powerful tool that provides a range of debugging options, including:\n\nBreakpoints\nConditional breakpoints\nWatch expressions\nStepping over, into, and out of functions\nHere is an example of how to use the debug module:\n\n",
+      "thumbnail": "thumbnail-1708794403625-465722215.png",
+      "author": {
+        "id": "7830e5903b889750f1e3",
+        "firstName": "Sumit",
+        "lastName": "Saha",
+        "avatar": "avatar-1708764729322-387087910.png"
+      },
+      "tags": "programming, algorithm, prototype, javascript",
+      "likes": [
+        {
+          "id": "3d2dde4b6548275fb066"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T17:06:43.629Z",
+      "isFavourite": false
+    },
+    {
+      "id": "f5efe87ef9e62ab091a2",
+      "title": "oue new blog",
+      "content": "asdfsaf.........",
+      "thumbnail": "thumbnail-1710062135749-892378161.png",
+      "author": {
+        "id": "046163a3c396fbbf24f8",
+        "firstName": "shazib",
+        "lastName": "Sarker",
+        "avatar": null
+      },
+      "tags": "asdfasdf",
+      "likes": [
+        {
+          "id": "3d2dde4b6548275fb066"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-03-10T09:15:35.780Z",
+      "isFavourite": false
+    },
+    {
+      "id": "a9529290d77084c98ca4",
+      "title": "mmmmmmmm",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer too..Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer too..",
+      "thumbnail": "thumbnail-1710132587991-183389821.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "mn",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-11T04:49:47.997Z",
+      "isFavourite": false
+    },
+    {
+      "id": "9d5598ab44600a379103",
+      "title": "Dev Retro 2022: What made me a better developer this year?",
+      "content": "Writing about the Dev Retro 2022 will be a bit off track if I do not discuss the journey briefly before it, which shaped my career as a blogger. The year 2021 was about writing. Writing here on my blog, freeCodeCamp, CSS-Tricks, Dev, and many other platforms.\n\nAt the end of 2021, I could establish myself as a technology blogger on the prominent platforms mentioned. The most exciting fact was that I was one of the top contributors/most-read authors on all these platforms.\n\nWhile these achievements were immense, I was still wondering about doing something else, trying something different in 2022. To be honest, I was trying to put myself out of my comfort zone, banking on all experiences I've gained over the years.\n\nThis article captures my journey of becoming a better developer this year. I hope it inspires you somehow, and if it does, I'll appreciate you leaving a comment. Also, for some of you who are part of this journey, I want to thank you from the bottom of my heart ❤️.",
+      "thumbnail": "thumbnail-1708793859418-241650391.png",
+      "author": {
+        "id": "346d7a36b3c41f3fbfa2",
+        "firstName": "Tapas",
+        "lastName": "Adhikary",
+        "avatar": "avatar-1708764766479-243448656.png"
+      },
+      "tags": "programming, algorithm, prototype, javascript",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-02-24T16:57:39.425Z",
+      "isFavourite": false
+    },
+    {
+      "id": "7c9eec5d2e71cb5640f7",
+      "title": "edit 2222",
+      "content": "wwwwwwww...",
+      "thumbnail": "thumbnail-1709990894087-111068858.png",
+      "author": {
+        "id": "65aff389f1822a5e9f43",
+        "firstName": "Md",
+        "lastName": "salahuddin",
+        "avatar": "avatar-1708882452726-336021919.jpeg"
+      },
+      "tags": "PHP",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-09T13:28:14.144Z",
+      "isFavourite": false
+    },
+    {
+      "id": "702644711f687559f133",
+      "title": "edit now",
+      "content": "gfhjghf...",
+      "thumbnail": "thumbnail-1710159007399-170393348.png",
+      "author": {
+        "id": "94dc0094edc5a132f5c0",
+        "firstName": "Alamin",
+        "lastName": "ali",
+        "avatar": "avatar-1710158914739-292180181.jpg"
+      },
+      "tags": "fghjgf",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-11T12:10:07.407Z",
+      "isFavourite": false
+    },
+    {
+      "id": "1534d1a8a3b4df0edca3",
+      "title": "edit",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer too...",
+      "thumbnail": "thumbnail-1710169813138-771820378.jpeg",
+      "author": {
+        "id": "a62af035ad4d6ae84456",
+        "firstName": "amir",
+        "lastName": "kahn",
+        "avatar": null
+      },
+      "tags": "afsaf,yghfjf,jsgk",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-11T15:10:13.149Z",
+      "isFavourite": false
+    },
+    {
+      "id": "a385b2f4faae42e9abe8",
+      "title": "aaa",
+      "content": "jgh nfg",
+      "thumbnail": "thumbnail-1710173522301-474746262.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "aaa,kj,jhj",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-11T16:12:02.359Z"
+    },
+    {
+      "id": "693c2c316ebea1978e78",
+      "title": "yyyyyyy",
+      "content": "Find out which posts are a hit with Blogger’s built-in analytics. You’ll see where your audience is coming from and what they’re interested in. You can even connect your blog directly to Google Analytics for a more detailed look.Find out which posts are a hit with Blogger’s built-in analytics. You’ll see where your audience is coming from and what they’re interested in. You can even connect your blog directly to Google Analytics for a more detailed look.Find out which posts are a hit with Blogger’s built-in analytics. You’ll see where your audience is coming from and what they’re interested in. You can even connect your blog directly to Google Analytics for a more detailed look.",
+      "thumbnail": "thumbnail-1710390702066-381253541.jpg",
+      "author": {
+        "id": "046163a3c396fbbf24f8",
+        "firstName": "shazib",
+        "lastName": "Sarker",
+        "avatar": null
+      },
+      "tags": "yyyyyy",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-14T04:31:42.107Z",
+      "isFavourite": false
+    },
+    {
+      "id": "9411f3f116444282e6ba",
+      "title": "Earn money",
+      "content": "Get paid for your hard work. Google AdSense can automatically display relevant targeted ads on your blog so that you can earn income by posting about your passion.Get paid for your hard work. Google AdSense can automatically display relevant targeted ads on your blog so that you can earn income by posting about your passion.Get paid for your hard work. Google AdSense can automatically display relevant targeted ads on your blog so that you can earn income by posting about your passion.",
+      "thumbnail": "thumbnail-1710391545901-825367645.png",
+      "author": {
+        "id": "046163a3c396fbbf24f8",
+        "firstName": "shazib",
+        "lastName": "Sarker",
+        "avatar": null
+      },
+      "tags": "fgdfg,fghfg",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-14T04:45:45.912Z"
+    },
+    {
+      "id": "ead6cfc1812b877f795e",
+      "title": "Choose the perfect design",
+      "content": "Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.",
+      "thumbnail": "thumbnail-1710399213684-578664026.jpg",
+      "author": {
+        "id": "d4d342e19706ff3110d0",
+        "firstName": "masud",
+        "lastName": "rana",
+        "avatar": "avatar-1710322743187-790317754.jpg"
+      },
+      "tags": "PHP,sdfs,erewr",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-14T06:53:33.697Z"
+    },
+    {
+      "id": "a1cf759ca9d8fb2feb7e",
+      "title": "Know your audience",
+      "content": "Find out which posts are a hit with Blogger’s built-in analytics. You’ll see where your audience is coming from and what they’re interested in. You can even connect your blog directly to Google Analytics for a more detailed lookFind out which posts are a hit with Blogger’s built-in analytics. You’ll see where your audience is coming from and what they’re interested in. You can even connect your blog directly to Google Analytics for a more detailed lookFind out which posts are a hit with Blogger’s built-in analytics. You’ll see where your audience is coming from and what they’re interested in. You can even connect your blog directly to Google Analytics for a more detailed look",
+      "thumbnail": "thumbnail-1710399406990-455610538.png",
+      "author": {
+        "id": "6571a7a382152d3104bb",
+        "firstName": "Hamzal",
+        "lastName": "Khan",
+        "avatar": null
+      },
+      "tags": "js,ts,html",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-14T06:56:47.005Z",
+      "isFavourite": false
+    },
+    {
+      "id": "b361ec6886d0bf2233c2",
+      "title": "Hang onto your memories",
+      "content": "Save the moments that matter. Blogger lets you safely store thousands of posts, photos, and more with Google.Save the moments that matter. Blogger lets you safely store thousands of posts, photos, and more with Google.Save the moments that matter. Blogger lets you safely store thousands of posts, photos, and more with Google.Save the moments that matter. Blogger lets you safely store thousands of posts, photos, and more with Google.Save the moments that matter. Blogger lets you safely store thousands of posts, photos, and more with Google.",
+      "thumbnail": "thumbnail-1710399803480-770690214.png",
+      "author": {
+        "id": "6571a7a382152d3104bb",
+        "firstName": "Hamzal",
+        "lastName": "Khan",
+        "avatar": null
+      },
+      "tags": "www",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-14T07:03:23.489Z",
+      "isFavourite": false
+    },
+    {
+      "id": "b48f80162c813f735485",
+      "title": "Join millions of others",
+      "content": "Whether sharing your expertise, breaking news, or whatever’s on your mind, you’re in good company on Blogger. Sign up to discover why millions of people have published their passions here.Whether sharing your expertise, breaking news, or whatever’s on your mind, you’re in good company on Blogger. Sign up to discover why millions of people have published their passions here.Whether sharing your expertise, breaking news, or whatever’s on your mind, you’re in good company on Blogger. Sign up to discover why millions of people have published their passions here.",
+      "thumbnail": "thumbnail-1710400135449-719247596.jpg",
+      "author": {
+        "id": "6571a7a382152d3104bb",
+        "firstName": "Hamzal",
+        "lastName": "Khan",
+        "avatar": null
+      },
+      "tags": "www,hdsh,fgjdhj",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-03-14T07:08:55.481Z"
+    }
+  ]
+}
